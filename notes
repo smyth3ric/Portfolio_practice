@@ -1,0 +1,78 @@
+ <div class="art">
+                    <h3>
+                        Art 
+                    </h3>
+                         <p>
+                        As long as I can remember, I have always had the urge to create. I actaully go into depression when I go through spans of life where I am not making anything. I've always had a knack for creating figurative/organic images but have always struggled with hard lines like in architecture. I like to work in many mediums and styles but have found a real joy in painting. I do a lot of portraits and what I find most interesting is that in creating each piece it is like I am spending time with the individual who I am painting. I have found this to be very theraputic, especially when the portrait is of someone who has passed or someone I dont know. It's as if we are building a relationship.
+                        <br>
+                        <div class="painting">
+                            <img id="painting" src="../images/IMG_2265.jpeg" alt="painting">
+                        </div>
+                         </p>
+                        </div>
+
+                <div class="health">
+                    <h3>
+                        Health 
+                    </h3>
+                        <p>
+                        As long as I can remember, I have always had the urge to create. I actaully go into depression when I go through spans of life where I am not making anything. I've always had a knack for creating figurative/organic images but have always struggled with hard lines like in architecture. I like to work in many mediums and styles but have found a real joy in painting. I do a lot of portraits and what I find most interesting is that in creating each piece it is like I am spending time with the individual who I am painting. I have found this to be very theraputic, especially when the portrait is of someone who has passed or someone I dont know. It's as if we are building a relationship.
+                         <br>
+                        </p>
+                        </div>
+
+                <div class="travel">
+                    <h3>
+                        Travel
+                    </h3>
+                        <p>
+                         As long as I can remember, I have always had the urge to create. I actaully go into depression when I go through spans of life where I am not making anything. I've always had a knack for creating figurative/organic images but have always struggled with hard lines like in architecture. I like to work in many mediums and styles but have found a real joy in painting. I do a lot of portraits and what I find most interesting is that in creating each piece it is like I am spending time with the individual who I am painting. I have found this to be very theraputic, especially when the portrait is of someone who has passed or someone I dont know. It's as if we are building a relationship.
+                         <br>
+                        </p>
+                        </div>
+                        </p>
+        </article>
+        <article id="article_3" class="articles">
+                <h2 id="web_journey">Web Development Journey</h2>
+                <br>
+                <p>
+                    I have always had a curiosity for tech and the tech industry but never had the courage to go out and seek the knowledge. My first experience with some minor coding was with Myspace and I remember loving how creative you could be with all of the little flare you could add to your profile. I had a spider-man animation that would slink down the page on his web and cool videos and songs would play when you scrolled over them. Since then though, I haven't done anything with tech. 
+                    <br>
+                    It wasn't until recently when I decided to leave my GM gig where I swore to never work in the food industry again that I got the guts to try someyhing new. I left my job in December 2021 and then I focused on completeing my BFA in painting at Old Dominion University where I graduated in May 2022. I love making art but I never wanted to have to depend on it as a main income so I decided to mess around with some free coding websites. Soon after graduation I was contacted by a company called Genesis Dev10 where they were supposed to pay me to learn and then place me in a job. I applied but it never felt right to me because the contract was horrible and the pay was so low to have to live in such expensive cities. However, I still applied for the job but ended up intentionally bombing the interview project after talking with a freind in the field. It was my freind who convinced me to do a bootcamp and this is what lead me to Coding Temple.
+
+                </p>
+            </article>
+        </div>
+
+
+
+
+        .art{
+            float:left;
+            text-align: center;
+            height: 100%;
+            max-width: 30%;
+            padding: 18px;
+            background-color: whitesmoke;
+        }
+        
+        .health{
+            position: relative;
+            text-align: center;
+            height: 100%;
+            max-width: 30%;
+            padding: 18px;
+           
+            background-color: whitesmoke;
+        }
+        
+        .travel{
+            float:right;
+            text-align: center;
+            height: 100%;
+            max-width: 30%;
+            padding: 18px;
+            margin-top: 10%;
+            background-color: whitesmoke;
+        }
+        
